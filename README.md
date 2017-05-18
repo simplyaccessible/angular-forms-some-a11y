@@ -6,7 +6,7 @@
 
 > Some Accessibility 👍
 
-This repo is a demo component from the article, [Creating Accessible Forms with Angular](https://simplyaccessible.com). Have a read to find out why this form flows the way it does, then come back and check out the source code. 🙂
+This repo is a demo component from the article, [Creating Accessible Forms with Angular](https://simplyaccessible.com/article/accessible-forms-angular/). Have a read to find out why this form flows the way it does, then come back and check out the source code. 🙂
 
 Also available is the repo for the alternate-component form, [Angular Forms Demo &ndash; Next-Level Accessibility](https://github.com/simplyaccessible/angular-forms-next-level-a11y).
 
